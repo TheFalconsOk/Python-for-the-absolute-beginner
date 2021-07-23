@@ -4,7 +4,7 @@ This Repo is for the work on the book
 Python Programming Third edition. For the absolute beginner.
 by Michal Dawson
 
-- [ ] Chapter 1: The Game Over Program.
+- [X] Chapter 1: The Game Over Program.
 - [ ] Chapter 2: The Useless Trivia Program.
 - [ ] Chapter 3: The Guess My Number Game.
 - [ ] Chapter 4: The Word Jumble Game.
